@@ -1,0 +1,10 @@
+^C:\USERS\DGA-MI\SOURCE\REPOS\ESSAI01\BUILD\CMAKEFILES\96CAE70EE52297438A2B6127A7EB1E93\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/DGA-MI/source/repos/Essai01 -BC:/Users/DGA-MI/source/repos/Essai01/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/DGA-MI/source/repos/Essai01/build/MyLibrary.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
