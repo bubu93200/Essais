@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/bubu/source/repos/Essais/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -Dmylibrary_EXPORTS -IC:/Users/bubu/source/repos/Essais/build/mylibrary_autogen/include -isystem C:/Qt/5.15.2/mingw81_64/include -isystem C:/Qt/5.15.2/mingw81_64/include/QtCore -isystem C:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.2/mingw81_64/include/QtQml -isystem C:/Qt/5.15.2/mingw81_64/include/QtNetwork -g -o CMakeFiles\\mylibrary.dir\\mylibrary_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\bubu\\source\\repos\\Essais\\build\\mylibrary_autogen\\mocs_compilation.cpp",
+  "file": "C:\\Users\\bubu\\source\\repos\\Essais\\build\\mylibrary_autogen\\mocs_compilation.cpp"
+},
+{
+  "directory": "C:/Users/bubu/source/repos/Essais/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_QML_LIB -Dmylibrary_EXPORTS -IC:/Users/bubu/source/repos/Essais/build/mylibrary_autogen/include -isystem C:/Qt/5.15.2/mingw81_64/include -isystem C:/Qt/5.15.2/mingw81_64/include/QtCore -isystem C:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -isystem C:/Qt/5.15.2/mingw81_64/include/QtQml -isystem C:/Qt/5.15.2/mingw81_64/include/QtNetwork -g -o CMakeFiles\\mylibrary.dir\\mylibrary.cpp.obj -c C:\\Users\\bubu\\source\\repos\\Essais\\mylibrary.cpp",
+  "file": "C:\\Users\\bubu\\source\\repos\\Essais\\mylibrary.cpp"
+}
+]

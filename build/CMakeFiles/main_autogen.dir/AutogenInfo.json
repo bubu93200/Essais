@@ -1,5 +1,5 @@
 {
-	"BUILD_DIR" : "C:/Users/bubu/source/repos/Essais/build/mylibrary_autogen",
+	"BUILD_DIR" : "C:/Users/bubu/source/repos/Essais/build/main_autogen",
 	"CMAKE_BINARY_DIR" : "C:/Users/bubu/source/repos/Essais/build",
 	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/bubu/source/repos/Essais/build",
 	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/bubu/source/repos/Essais",
@@ -64,21 +64,13 @@
 		"C:/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Qml/Qt5QmlConfigExtras.cmake"
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/bubu/source/repos/Essais",
-	"DEP_FILE" : "C:/Users/bubu/source/repos/Essais/build/mylibrary_autogen/deps",
-	"DEP_FILE_RULE_NAME" : "mylibrary_autogen/timestamp",
-	"HEADERS" : 
-	[
-		[
-			"C:/Users/bubu/source/repos/Essais/mylibrary.h",
-			"Mu",
-			"EWIEGA46WW/moc_mylibrary.cpp",
-			null
-		]
-	],
+	"DEP_FILE" : "C:/Users/bubu/source/repos/Essais/build/main_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "main_autogen/timestamp",
+	"HEADERS" : [],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/Users/bubu/source/repos/Essais/build/mylibrary_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/Users/bubu/source/repos/Essais/build/mylibrary_autogen/mocs_compilation.cpp",
-	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_NETWORK_LIB", "QT_QML_LIB", "mylibrary_EXPORTS" ],
+	"INCLUDE_DIR" : "C:/Users/bubu/source/repos/Essais/build/main_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/bubu/source/repos/Essais/build/main_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [],
 	"MOC_DEPEND_FILTERS" : 
 	[
 		[
@@ -88,11 +80,6 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"C:/Qt/5.15.2/mingw81_64/include",
-		"C:/Qt/5.15.2/mingw81_64/include/QtCore",
-		"C:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++",
-		"C:/Qt/5.15.2/mingw81_64/include/QtQml",
-		"C:/Qt/5.15.2/mingw81_64/include/QtNetwork",
 		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++",
 		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32",
 		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward",
@@ -111,20 +98,20 @@
 		"-c",
 		"C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "C:/Users/bubu/source/repos/Essais/build/mylibrary_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/Users/bubu/source/repos/Essais/build/main_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "C:/Users/bubu/source/repos/Essais/build/CMakeFiles/mylibrary_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "C:/Users/bubu/source/repos/Essais/build/CMakeFiles/main_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "C:/Users/bubu/source/repos/Essais/build/CMakeFiles/mylibrary_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/Users/bubu/source/repos/Essais/build/CMakeFiles/main_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "C:/Users/bubu/source/repos/Essais/mylibrary.cpp", "Mu", null ]
+		[ "C:/Users/bubu/source/repos/Essais/main.cpp", "Mu", null ]
 	],
 	"VERBOSITY" : 0
 }
