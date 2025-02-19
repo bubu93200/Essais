@@ -1,7 +1,8 @@
 // Essai de code C++ avec VS code
 // Il faut installer code runner pour activer les commandes directement
 // Il faut, dans paramètres de code runner, activer "lancer le terminal" sinon l'interaction avec le clavier ne fonctionne pas.
-
+//
+//Pour la compilation on utilise cmake
 // Fichier main
 //#include <stdio.h>
 #include <cstdio>
