@@ -1,4 +1,5 @@
 mylibrary_autogen/timestamp: \
+<<<<<<< HEAD
 	C:/Program\ Files/CMake/share/cmake-3.31/Modules/CMakeCInformation.cmake \
 	C:/Program\ Files/CMake/share/cmake-3.31/Modules/CMakeCXXInformation.cmake \
 	C:/Program\ Files/CMake/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake \
@@ -31,6 +32,30 @@ mylibrary_autogen/timestamp: \
 	C:/Program\ Files/CMake/share/cmake-3.31/Modules/Platform/Windows-windres.cmake \
 	C:/Program\ Files/CMake/share/cmake-3.31/Modules/Platform/Windows.cmake \
 	C:/Program\ Files/CMake/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake \
+=======
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/CMakeCInformation.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/CMakeCXXInformation.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/CMakeGenericSystem.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/CMakeParseArguments.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/CMakeRCInformation.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/Compiler/GNU-C.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/Compiler/GNU-CXX.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/Compiler/GNU.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/Platform/Windows-GNU-C-ABI.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/Platform/Windows-GNU-C.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/Platform/Windows-GNU-CXX.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/Platform/Windows-GNU.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/Platform/Windows-windres.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/Platform/Windows.cmake \
+	C:/Program\ Files/CMake/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake \
+>>>>>>> e8a627d3ef4d450a8d5d4280a1dfadebf0119eb3
 	C:/Qt/5.15.2/mingw81_64/include/QtCore/QObject \
 	C:/Qt/5.15.2/mingw81_64/include/QtCore/qalgorithms.h \
 	C:/Qt/5.15.2/mingw81_64/include/QtCore/qarraydata.h \
@@ -267,6 +292,7 @@ mylibrary_autogen/timestamp: \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
+<<<<<<< HEAD
 	C:/Users/DGA-MI/source/repos/Essai01/CMakeLists.txt \
 	C:/Users/DGA-MI/source/repos/Essai01/build/CMakeFiles/3.31.5/CMakeCCompiler.cmake \
 	C:/Users/DGA-MI/source/repos/Essai01/build/CMakeFiles/3.31.5/CMakeCXXCompiler.cmake \
@@ -275,4 +301,14 @@ mylibrary_autogen/timestamp: \
 	C:/Users/DGA-MI/source/repos/Essai01/build/mylibrary_autogen/moc_predefs.h \
 	C:/Users/DGA-MI/source/repos/Essai01/mylibrary.cpp \
 	C:/Users/DGA-MI/source/repos/Essai01/mylibrary.h \
+=======
+	C:/Users/bubu/source/repos/Essais/CMakeLists.txt \
+	C:/Users/bubu/source/repos/Essais/build/CMakeFiles/3.25.1/CMakeCCompiler.cmake \
+	C:/Users/bubu/source/repos/Essais/build/CMakeFiles/3.25.1/CMakeCXXCompiler.cmake \
+	C:/Users/bubu/source/repos/Essais/build/CMakeFiles/3.25.1/CMakeRCCompiler.cmake \
+	C:/Users/bubu/source/repos/Essais/build/CMakeFiles/3.25.1/CMakeSystem.cmake \
+	C:/Users/bubu/source/repos/Essais/build/mylibrary_autogen/moc_predefs.h \
+	C:/Users/bubu/source/repos/Essais/mylibrary.cpp \
+	C:/Users/bubu/source/repos/Essais/mylibrary.h \
+>>>>>>> e8a627d3ef4d450a8d5d4280a1dfadebf0119eb3
 	C:/Program\ Files/CMake/bin/cmake.exe
