@@ -24,7 +24,8 @@
                     "ignoreFailures": true
                 }
             ],
-            "preLaunchTask": "C/C++: g++.exe générer le fichier actif"
+            "preLaunchTask": "C/C++: g++.exe générer le fichier actif",
+            "visualizerFile": "c:\\Users\\DGA-MI\\AppData\\Roaming\\Code\\User\\workspaceStorage\\cb3563c75a72f1198c61c708b6c5e7f0\\tonka3000.qtvsctools\\qt.natvis.xml"
         }
     ],
     "version": "2.0.0"

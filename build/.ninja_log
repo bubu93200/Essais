@@ -1,0 +1,9 @@
+# ninja log v5
+2	1755	7616196466063050	mylibrary_autogen/timestamp	28b05debbf41d8c2
+2842	2987	7616196478788634	libmylibrary.dll	e0c3db3e86fa1f59
+2842	2987	7616196478788634	libmylibrary.dll.a	e0c3db3e86fa1f59
+2	1755	7616196466063050	mylibrary_autogen/mocs_compilation.cpp	28b05debbf41d8c2
+2	1755	7616196466063050	C:/Users/DGA-MI/source/repos/Essai01/build/mylibrary_autogen/mocs_compilation.cpp	28b05debbf41d8c2
+1760	2841	7616196477348642	CMakeFiles/mylibrary.dir/mylibrary_autogen/mocs_compilation.cpp.obj	300bc93c58693a18
+2	1755	7616196466063050	C:/Users/DGA-MI/source/repos/Essai01/build/mylibrary_autogen/timestamp	28b05debbf41d8c2
+1762	2800	7616196476928634	CMakeFiles/mylibrary.dir/mylibrary.cpp.obj	3e138e06a33d235
