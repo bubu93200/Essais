@@ -25,7 +25,7 @@
                 }
             ],
             "preLaunchTask": "C/C++: g++.exe générer le fichier actif",
-            "visualizerFile": "c:\\Users\\bubu\\AppData\\Roaming\\Code\\User\\workspaceStorage\\45259e75b237b31a5dcbd2d3bd230034\\tonka3000.qtvsctools\\qt.natvis.xml"
+            "visualizerFile": "c:\\Users\\bubu\\AppData\\Roaming\\Code\\User\\workspaceStorage\\a3fa490b37b3223f18d834e7557953da\\tonka3000.qtvsctools\\qt.natvis.xml"
         }
     ],
     "version": "2.0.0"
